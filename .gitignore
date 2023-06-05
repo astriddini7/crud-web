@@ -1,0 +1,7 @@
+crud/.vs/
+crud/Client/bin/
+crud/Client/obj/
+crud/Server/bin/
+crud/Server/obj/
+crud/Shared/obj/
+crud/Shared/bin/

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud.Server", "Server\crud.Server.csproj", "{E6C47391-2F82-41B3-97DE-1D616DACD669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud.Client", "Client\crud.Client.csproj", "{188E75A8-54E6-4D0B-964C-B1C2974A11E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud.Shared", "Shared\crud.Shared.csproj", "{3B47763C-B97D-44B7-B3FB-D7B8A171FE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C47391-2F82-41B3-97DE-1D616DACD669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C47391-2F82-41B3-97DE-1D616DACD669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C47391-2F82-41B3-97DE-1D616DACD669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C47391-2F82-41B3-97DE-1D616DACD669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{188E75A8-54E6-4D0B-964C-B1C2974A11E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188E75A8-54E6-4D0B-964C-B1C2974A11E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188E75A8-54E6-4D0B-964C-B1C2974A11E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188E75A8-54E6-4D0B-964C-B1C2974A11E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B47763C-B97D-44B7-B3FB-D7B8A171FE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B47763C-B97D-44B7-B3FB-D7B8A171FE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B47763C-B97D-44B7-B3FB-D7B8A171FE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B47763C-B97D-44B7-B3FB-D7B8A171FE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3BCD6D7-21E9-485E-8AA4-94DEA1072DCB}
+	EndGlobalSection
+EndGlobal
